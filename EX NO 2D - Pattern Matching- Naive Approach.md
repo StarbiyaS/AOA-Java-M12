@@ -1,6 +1,6 @@
 # EX 2D Pattern Matching using Naive Approach.
 
-## DATE:  09-09-2026
+## DATE:  05-08-2026
 
 ### Developed By: STARBIYA S
 
